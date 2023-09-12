@@ -85,7 +85,7 @@
                             }
                              }
                     else{
-                    echo "This Value $num is Negative Weather is to much freezing!.";
+                    echo "This Value $num is Negative. Weather is to much freezing!.";
                     }             
                 
             }
