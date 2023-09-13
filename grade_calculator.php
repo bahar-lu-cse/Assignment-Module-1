@@ -64,9 +64,9 @@
     <div class="container">
         <h2>Grade Calculator</h2>
         <form method="post" action="">
-            <input type="number" name="num1" placeholder="Enter Number 1"><br>
-            <input type="number" name="num2" placeholder="Enter Number 2"><br>
-            <input type="number" name="num3" placeholder="Enter Number 3"><br>
+            <input type="number" name="num1" placeholder="Enter Number 1" required><br>
+            <input type="number" name="num2" placeholder="Enter Number 2" required><br>
+            <input type="number" name="num3" placeholder="Enter Number 3" required><br>
             
             <button type="submit" name="submit">Calculate</button>
         </form>
