@@ -66,7 +66,7 @@
     <div class="container">
         <h2>Weather Report Checker</h2>
         <form method="post" action="">
-            <input type="number" name="num" placeholder="Enter Given Number"><br>            
+            <input type="number" name="num" placeholder="Enter Given Number" required><br>            
             
             <button type="submit" name="submit">Check</button>
         </form>
