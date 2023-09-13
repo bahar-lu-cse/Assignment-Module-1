@@ -59,7 +59,7 @@
     <div class="container">
         <h1>Temperature Converter </h1>
         <form action="" method="post">
-            <input type="number" name="num" placeholder="Please Enter Valid number:"><br>
+            <input type="number" name="num" placeholder="Please Enter Valid number:" required><br>
             <select name="Operation" id="">
                 <option value="celsius">Celsius to Fahrenheit</option>
                 <option value="fahrenheit">Fahrenheit to Celsius</option>                
