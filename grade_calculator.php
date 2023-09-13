@@ -25,7 +25,7 @@
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
         }
         input[type="number"] {
-            width: 100%;
+            width: 350px;
             padding: 8px;
             font-size: 20px;
             margin-bottom: 10px;
